@@ -1,39 +1,95 @@
-# Subfala: Speak the Streets 🇧🇷🎧
-
-Este é o site oficial do e-book *Subfala: Speak the Streets*, o guia definitivo das gírias, dialetos e expressões do Brasil.
-
-🗺 Navegue pelas falas do país inteiro!  
-🚀 Entenda o que a galera fala no dia a dia, nos rolês, nas quebradas, nas praias, no trânsito e muito mais.
+<h1 align="center">📚 Subfala: Speak the Streets 🇧🇷</h1>
+<h3 align="center">Gírias, Dialetos e Expressões Populares do Brasil — Um guia definitivo!</h3>
 
 ---
 
-## 🌐 Acesse o site:
-👉 https://seuusuario.github.io/subfala/
-
-## 💸 Link direto para pagamento:
-👉 https://mpago.la/1PXkBE2
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Capa+do+Ebook+Subfala" alt="Capa Subfala" />
+</p>
 
 ---
 
-## 📦 Sobre o projeto
+## 🚀 Sobre o Projeto
 
-Este projeto foi desenvolvido para divulgar e vender o e-book *Subfala: Speak the Streets*, com um visual urbano, descontraído e bem brasileiro.
+O *Subfala: Speak the Streets* é um guia completo e ilustrado sobre as gírias, dialetos e expressões do Brasil. É muito mais que um dicionário — é um mergulho na cultura falada, na malandragem urbana, no humor e nas diferenças linguísticas de cada canto do país.
 
-💚💛💙 Cores principais: verde, amarelo e azul.  
-🎨 Design: fundo ilustrado com mapa do Brasil em caricatura e elementos culturais.
-
----
-
-## 🚀 Tecnologias utilizadas
-
-- HTML
-- CSS
-- GitHub Pages
+Seja para *sobrevivência urbana, socialização ou diversão*, este material traz tudo o que você precisa para entender e se comunicar de verdade nas ruas do Brasil.
 
 ---
 
-## 🤝 Contribuição
+## 🔥 O que você vai encontrar
 
-Este site é de uso pessoal e comercial vinculado ao projeto Subfala.
+- 📚 *+500 gírias, expressões e dialetos.*
+- 🗺 *Mapa geográfico das expressões.*
+- 🌍 *Tradução para o inglês.*
+- 🎯 *Contexto real de uso — situações sociais, rolês, trampo, trânsito, situações de risco e muito mais.*
+- 🎨 *Design Urban-Cartoon*: balões de fala, placas engraçadas e estética urbana brasileira.
+- 🛡 *Seção especial de segurança urbana.*
+- 😂 *Muito humor, cultura e conhecimento!*
 
 ---
+
+## 🗺 Mapa da Comunicação Brasileira
+
+> Explore o Brasil falado!  
+> Cada região, um jeito único de se expressar: do "oxente" nordestino ao "bah" gaúcho, do "demorô" paulista ao "é os guri" do sul.
+
+---
+
+## 🎯 Público-Alvo
+
+✔ Estrangeiros que visitam ou vivem no Brasil.  
+✔ Brasileiros que viajam pelo país.  
+✔ Guias turísticos, criadores de conteúdo, influencers, tradutores.  
+✔ Amantes da cultura, linguística, humor e comunicação popular.  
+✔ Quem quer aprender, rir e sobreviver na selva urbana.
+
+---
+
+## 🎨 Identidade Visual
+
+- 🎨 *Estilo:* Urban-Cartoon  
+- 🎨 *Cores:* Verde, Amarelo e Azul 🇧🇷  
+- 🎨 *Elementos:* Mapas, grafites, balões de fala, placas, favelas estilizadas, praias, sertão, futebol, samba, capoeira e muito mais.
+
+---
+
+## 🌐 Site Oficial (em breve)
+
+- 🎥 Trailer animado do e-book.  
+- 🎬 Cenas ilustradas com situações reais.  
+- ⭐ Depoimentos e avaliações.  
+- ❓ FAQ completo.  
+- 🛒 Loja virtual com checkout seguro.
+
+---
+
+## 🤝 Como Contribuir
+
+💡 Quer colaborar, sugerir melhorias, divulgar ou fazer parte desse projeto?  
+Abra uma *Issue, envie um **Pull Request* ou entre em contato!  
+*Toda ideia é bem-vinda.*  
+
+---
+
+## 📥 Download
+
+- 📄 *Demo gratuita:* disponível aqui no repositório.  
+- 📗 *Versão premium:* com conteúdo expandido, à venda no site oficial.
+
+---
+
+## 🚧 Status
+
+🛠 *Em desenvolvimento constante!*  
+Acompanhe as atualizações e melhorias.
+
+---
+
+> ⚡ *Subfala: Speak the Streets* — No Brasil, não é só falar... é saber COMO se fala! 🇧🇷🔥🗣
+
+---
+
+<p align="center">
+  <img src="https://via.placeholder.com/400x100?text=Logo+Subfala" alt="Logo Subfala" />
+</p>
